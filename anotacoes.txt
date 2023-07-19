@@ -1,0 +1,2 @@
+* baixar container, dar composer up e no docker digita o comando artisan
+dps create component
